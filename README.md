@@ -9,7 +9,9 @@ Lab 4, 5, 6, 7 were done with Cao Wenqi and Lin Jingye.
 
 - Review notes for mid exam
   - No notes for final >_<
-- lab source code
+- Lab source code
+  - Just for backup. **DO NOT copy them!**
+- Homework
   - Just for backup. **DO NOT copy them!**
 
 ## About Honor Code
